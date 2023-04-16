@@ -28,6 +28,7 @@ function App() {
         setup="What's the best thing about Switzerland?"
         punchline="I don't know, but the flag is a big plus!"
       />
+      <h3>Add some of your joke suggestions and make it more fun!</h3>
     </div>
   );
 }
